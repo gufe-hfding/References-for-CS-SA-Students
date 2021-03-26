@@ -4,6 +4,9 @@
 
 ### 书目
 
+- 应用图论/.刘缵武主编	长沙:,国防科技大学出版社:,2006
+- 图论及其算法/.李明哲, 金俊, 石端银编著，北京:,机械工业出版社:,2010
+- 复杂网络与大数据分析/.卜湛, 曹杰主编，北京:,清华大学出版社:,2019
 - [*Networks: An Introduction*](http://www.amazon.com/Networks-Introduction-Mark-Newman/dp/0199206651), M. E. J. Newman, Oxford University Press, Oxford (2010)
 - [*Complex Networks: Structure, Robustness and Function*](http://www.amazon.com/Complex-Networks-Structure-Robustness-Function/dp/0521841569), Reuven Cohen and Shlomo Havlin, Cambridge University Press, Cambridge (2010). Quite a short book, but it covers most of the topics of the course, at least to some extent, and some others that are not in the book by Newman.
 - [*Lectures on Complex Networks*](http://www.amazon.com/Lectures-Complex-Networks-Oxford-Physics/dp/0199548935), S. N. Dorogovtsev, Oxford University Press, Oxford (2010). Very short – genuinely a set of lecture notes, rather than a full text.
