@@ -65,7 +65,10 @@
 
 ## 密码学
 
+如何学习密码学：https://mp.weixin.qq.com/s/aO-3At67XVjbvNCPIVS5fA
+
 ### 书目
+
 现代密码学
 ### 课程
 - 电子科大：[现代密码学]( https://www.bilibili.com/video/BV1Gx411f7Yo) by 聂旭云
