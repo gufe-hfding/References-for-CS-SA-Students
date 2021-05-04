@@ -86,6 +86,7 @@
 - 微软研究院：[差分隐私公开课 Differential Privacy](https://www.bilibili.com/video/BV1Ts411F7jx) by Dwork
 - 河南财经政法大学/香港理工大学/清华大学：[差分隐私 part 1](https://www.bilibili.com/video/BV1Qk4y117S1) by 张啸剑 /[part 2 and part 3](https://www.bilibili.com/video/BV12K4y1Y7ux) by 叶青青、孙林
 - 新加坡国立大学：[差分隐私：原理、应用与展望](https://www.bilibili.com/video/BV1Tk4y117uA) by 萧小奎
+- 波士顿大学：[Privacy in Statistics and Machine Learning](https://dpcourse.github.io/) by  Adam Smith and Jonathan Ullman
 
 ## 联邦学习
 
@@ -117,5 +118,4 @@
 - 潘如晟,韩东明,潘嘉铖,周舒悦,魏雅婷,梅鸿辉,陈为.联邦学习可视化:挑战与框架[J].计算机辅助设计与图形学学报,2020,32(04):513-519.
 - 杨强.AI与数据隐私保护：联邦学习的破解之道[J].信息安全研究,2019,5(11):961-965.
 - 
-
 
